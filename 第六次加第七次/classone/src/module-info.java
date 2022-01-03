@@ -1,0 +1,2 @@
+module classone {
+}
